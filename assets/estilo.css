@@ -21,8 +21,9 @@ font-size: 28px;
 text-align: center;
 }
 
-.cartao:hover{
+.cartao:hover  .cartao--conteudo{
 background-color: cornflowerblue;
+transform: rotateY(180deg);
 }
 
 .cartao--resposta{
