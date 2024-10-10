@@ -31,7 +31,7 @@ transform: rotateY(180deg);
 }
 
 .cartao--conteudo{
-    background-color: rgb(236, 231, 231);
+    background-color: rgb(0, 0, 0);
     transform-style: preserve-3d;
 transition: transform 300ms ease-in-out;
 }
