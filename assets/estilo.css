@@ -22,7 +22,7 @@ text-align: center;
 }
 
 .cartao:hover  .cartao--conteudo{
-background-color: cornflowerblue;
+background-color: rgb(105, 106, 107);
 transform: rotateY(180deg);
 }
 
