@@ -15,7 +15,7 @@ criarCartao(
     " 54 troféus ao longo de sua história"
 )
 criarCartao(
-    "QUEM E O MAIOR JOGADOR DA HISTORIA DO CORINTHIANS  ",
+    " MAIOR JOGADOR DA HISTORIA DO CORINTHIANS  ",
     " Socrates"
 )
 criarCartao(
