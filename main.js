@@ -13,3 +13,4 @@ conteudo.appendChild(Cartao)
 }
 
 criarCartao(1,2)
+criarCartao(1,2)
